@@ -30,13 +30,7 @@ Os arquivos estão organizados como:
 
         └───README.md
 
-### Conclusão
-Os erros de compilação são essenciais para garantir a correção, segurança e confiabilidade dos programas. Cada fase da compilação possui mecanismos específicos para identificar problemas relacionados à estrutura, significado e organização do código.
-
-Além de detectar erros, compiladores modernos procuram recuperar-se deles para continuar a análise do programa e fornecer mensagens mais completas ao desenvolvedor. Isso aumenta significativamente a produtividade e facilita a identificação de problemas no desenvolvimento de software.
-
-
-Resumo Geral
+### Resumo Geral
 
 | Tipo de erro | Fase |
 | --- | --- |
@@ -48,3 +42,7 @@ Resumo Geral
 | Runtime detectável | Otimização/análise |
 | Warnings | Diversas fases |
 
+### Conclusão
+Os erros de compilação são essenciais para garantir a correção, segurança e confiabilidade dos programas. Cada fase da compilação possui mecanismos específicos para identificar problemas relacionados à estrutura, significado e organização do código.
+
+Além de detectar erros, compiladores modernos procuram recuperar-se deles para continuar a análise do programa e fornecer mensagens mais completas ao desenvolvedor. Isso aumenta significativamente a produtividade e facilita a identificação de problemas no desenvolvimento de software.
